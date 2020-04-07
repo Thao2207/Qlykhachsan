@@ -1,0 +1,10 @@
+D:\Qlyks\Qlykhachsan\obj\Debug\Qlykhachsan.csprojAssemblyReference.cache
+D:\Qlyks\Qlykhachsan\obj\Debug\Qlykhachsan.Form1.resources
+D:\Qlyks\Qlykhachsan\obj\Debug\Qlykhachsan.Properties.Resources.resources
+D:\Qlyks\Qlykhachsan\obj\Debug\Qlykhachsan.csproj.GenerateResource.cache
+D:\Qlyks\Qlykhachsan\obj\Debug\Qlykhachsan.csproj.CoreCompileInputs.cache
+D:\Qlyks\Qlykhachsan\bin\Debug\Qlykhachsan.exe.config
+D:\Qlyks\Qlykhachsan\bin\Debug\Qlykhachsan.exe
+D:\Qlyks\Qlykhachsan\bin\Debug\Qlykhachsan.pdb
+D:\Qlyks\Qlykhachsan\obj\Debug\Qlykhachsan.exe
+D:\Qlyks\Qlykhachsan\obj\Debug\Qlykhachsan.pdb
